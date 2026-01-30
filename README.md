@@ -1,4 +1,4 @@
-# CLI Agent - 代码注释生成工具
+# CollieAgent - 代码Agent工具
 
 一个基于 TypeScript 和 AI Agent 的 CLI 工具，可以自动为代码文件添加详细的中文注释。
 
